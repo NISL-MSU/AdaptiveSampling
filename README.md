@@ -16,7 +16,7 @@ Using this GP, we design an acquisition function that selects a combination of s
 
 <div style="display: flex; justify-content: center;">
   <figure style="text-align: center;">
-    <img src="figs/results_cos_figs.jpg" alt="figure" width="90%">
+    <img src="figs/results_cos_figs.jpg" alt="figure" width="100%">
     <figcaption>Example of the adaptive sampling process using ASPINN.</figcaption>
   </figure>
 </div>
