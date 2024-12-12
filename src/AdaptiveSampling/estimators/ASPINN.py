@@ -125,8 +125,7 @@ class ASPINN(EstimatorInterface):
 
         x_sampled, K, new_K = [], self.K.copy(), None
 
-        # If all x-values have been observed at least once, let's consider all possible values for sampling
-        x_pool = [x for x in self.x if x not in x_sampled]
+        x_pool = self.x.copy()
         while len(x_sampled) < n_samples:
             max_diff, x_add, best_K = 0, None, None
             for x in x_pool:
