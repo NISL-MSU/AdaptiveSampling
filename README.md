@@ -1,4 +1,4 @@
-[//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2212.06370-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/2212.06370&#41;)
+[![arXiv](https://img.shields.io/badge/arXiv-2212.06370-b31b1b.svg)](https://arxiv.org/abs/2412.10570)
 
 [//]: # ([![Open In Colab]&#40;https://colab.research.google.com/assets/colab-badge.svg&#41;]&#40;https://colab.research.google.com/github/NISL-MSU/PredictionIntervals/blob/master/DualAQD_PredictionIntervals.ipynb&#41;)
 
