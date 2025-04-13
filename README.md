@@ -118,14 +118,15 @@ sampler.run()
 Use this Bibtex to cite this repository
 
 ```
-@article{ASPINN 
+@inproceedings{ASPINN 
 title={Adaptive Sampling to Reduce Epistemic Uncertainty Using Prediction Interval-Generation Neural Networks},
 author={Morales, Giorgio and Sheppard, John}, 
-volume={}, 
-number={}, 
+volume={39}, 
+number={18}, 
 journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
 year={2025}, 
 month={Feb.}, 
-pages={} 
+pages={19546-19553},
+DOI={10.1609/aaai.v39i18.34152},
 }
 ```
